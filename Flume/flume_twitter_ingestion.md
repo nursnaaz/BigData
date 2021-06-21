@@ -15,10 +15,10 @@ TwitterAgent.sinks = HDFS
 TwitterAgent.sources.Twitter.type = org.apache.flume.source.twitter.TwitterSource
 
 
-TwitterAgent.sources.Twitter.consumerKey = XRihcUg1U5JtNewEZqbH89eB2
-TwitterAgent.sources.Twitter.consumerSecret = vLUGt1QKnmh7aT3NYpCcKEUAUdxODgH9lAAEG4ezbdjvm1bInf
-TwitterAgent.sources.Twitter.accessToken = 103894086-RDjAeQp9ZhZ2WQh9HnzVKKKfBcYhCLxRPuyNy3Jw
-TwitterAgent.sources.Twitter.accessTokenSecret = l4TzgkGdkaJimpJGVwNHK0WqGtxPOWDzAAIQVDOtpzXhc
+TwitterAgent.sources.Twitter.consumerKey = ##############
+TwitterAgent.sources.Twitter.consumerSecret = ##################
+TwitterAgent.sources.Twitter.accessToken = ##############
+TwitterAgent.sources.Twitter.accessTokenSecret = ############
 TwitterAgent.sources.Twitter.keywords = hadoop
 
 # Describing/Configuring the sink
